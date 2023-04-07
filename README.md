@@ -33,7 +33,7 @@ Frontend developer
 -------------------------------------------------
 
 * 🌍  I'm based in Moscow, Russia
-* ✉️  You can contact me at [egoji@mail.ru](mailto:egoji@mail.ru)
+* ✉️  You can contact me at [egoji@mail.ru](mailto:egoji@mail.ru) or [@eaglebov](https://t.me/eaglebov)
 * 🧠  I'm learning Spanish
 * 🤝  I'm open to collaborating on EdTech, FinTech, Medicine, Marketing, Eco startups
 
