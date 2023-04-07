@@ -32,7 +32,7 @@ Hi 👋 My name is Glebov Evgeny
 Frontend developer
 -------------------------------------------------
 
-* 🌍  I'm based in Moscow, Russia (somewhere else soon, who knows)
+* 🌍  I'm based in Moscow, Russia
 * ✉️  You can contact me at [egoji@mail.ru](mailto:egoji@mail.ru)
 * 🧠  I'm learning Spanish
 * 🤝  I'm open to collaborating on EdTech, FinTech, Medicine, Marketing, Eco startups
