@@ -37,7 +37,8 @@ Frontend developer
 * 🧠  I'm learning Spanish
 * 🤝  I'm open to collaborating on EdTech, FinTech, Medicine, Marketing, Eco startups
 
-### Skills
+Skills
+-------------------------------------------------
 
 
 <p align="left">
